@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ogunfool
-- 👀 I’m interested in Machine learning, Reinforcement learning and Computer Vision
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Machine learning, Deep learning, Reinforcement learning applications in Manufacturing, Supply chain optimization, maintenance optimization, Computer Vision, time-series analysis & forecasting and recommender systems.
+- 🌱 I am currently learning recommender systems.
 - 💞️ I’m looking to collaborate on Reinforcement learning projects for recommender systems, autonomous driving and computer vision.
 - 📫 How to reach me - through my email ogunfoworaoluwaseyi06@gmail.com
 
